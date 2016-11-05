@@ -1,0 +1,26 @@
+{
+  "name": "wage-cal",
+  "version": "0.0.0",
+  "description": "monthly wage calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samiahl/WageCal.git"
+  },
+  "author": "",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/samiahl/WageCal/issues"
+  },
+  "homepage": "https://github.com/samiahl/WageCal#readme",
+  "dependencies": {
+    "csvtojson": "^1.0.3",
+    "express": "^4.13.4",
+    "morgan": "^1.1.1",
+    "body-parser": "^1.4.3",
+    "method-override": "^2.1.3"
+  }
+}
